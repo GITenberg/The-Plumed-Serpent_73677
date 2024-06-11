@@ -1,0 +1,44 @@
+_repo: The-Plumed-Serpent_73677
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lawrence, D. H. (David Herbert)
+    aliases:
+    - Lawrence, D.H.
+    - Lawrence, David Herbert
+    - Davison, Lawrence H. (Lawrence Herbert)
+    birthdate: 1885
+    deathdate: 1930
+    gutenberg_agent_id: '123'
+    url: http://www.gutenberg.org/2009/agents/123
+    wikipedia: https://en.wikipedia.org/wiki/D._H._Lawrence
+description: 'Wikipedia: https://en.wikipedia.org/wiki/The_Plumed_Serpent'
+gutenberg_issued: '2024-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73677'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015000632243
+pgterms:marc905: 20220120044616lawrence
+pgterms:marc906: '1926'
+pgterms:marc907: GB
+production_note: Carla Foust, Tim Lindell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bWilliam Heinemann, $c1926, reprint 1948.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Widows -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Mexico -- Fiction'
+- !lcsh 'Revolutions -- Fiction'
+- !lcsh 'Irish -- Mexico -- Fiction'
+- !lcsh 'Cults -- Mexico -- Fiction'
+- !lcsh 'Serpent worship -- Fiction'
+- !lcsh 'Quetzalcoatl (Aztec deity) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Plumed Serpent
+url: http://www.gutenberg.org/ebooks/73677
