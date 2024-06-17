@@ -1,5 +1,8 @@
 _repo: The-Plumed-Serpent_73677
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73677-h/images/cover.jpg
 creator:
   author:
     agent_name: Lawrence, D. H. (David Herbert)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/123
     wikipedia: https://en.wikipedia.org/wiki/D._H._Lawrence
 description: 'Wikipedia: https://en.wikipedia.org/wiki/The_Plumed_Serpent'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73677#The-Plumed-Serpent
 gutenberg_issued: '2024-05-24'
 gutenberg_type: Text
 identifiers:
